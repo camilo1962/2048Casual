@@ -1,0 +1,15 @@
+■Honyat2048
+
+００：Creando un modelo de dodecaedro regular con Blender
+０１：Importe un modelo de dodecaedro regular y cree Block Prefab (pegue texto numérico)
+０２：creación escénica
+０３：Mover bloques con el arrastre del mouse
+０４：Habilite el comportamiento físico con Rigidbody, MeshCollider, suelte el mouse y dispare. Genere el siguiente bloque después de la inyección
+０５：asignar números a los bloques
+０６：Cuando dos bloques con el mismo valor entren en contacto, borra uno y duplica el valor del otro.
+０７：Ajustar el color del bloque
+０８：Hágalo interesante ajustando las constantes elásticas de los bloques, etc.
+０９：calculo de puntaje
+１０：Si el bloque permanece frente a ti durante un cierto tiempo, el juego termina.
+１１：Generar efectos en la colisión
+１２：BGM, SE
